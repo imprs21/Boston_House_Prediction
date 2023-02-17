@@ -62,8 +62,7 @@ There are 14 attributes in each case of the dataset. They are:
     
 ## Motivation
 This project is the task-1 of Machine Learning Internship at SYNC Interns.
-
-In this project I will predict house price in boston city
+This project involves prediction of house price in boston city
 
 
 ## Project Explanation
