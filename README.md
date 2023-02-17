@@ -21,10 +21,6 @@
   - [Building Optimum Model](#building-optimum-model)
 - [Conclusion](#conclusion)
 
-## Demo
-**App Link** - [Boston House Price Predictor](https://ashok-machine-learning-project.herokuapp.com/#boston)
-
-![Boston Price Gif](../Demos/boston.gif)
 
 ## Introduction
 ### About the Dataset
@@ -66,9 +62,10 @@ There are 14 attributes in each case of the dataset. They are:
     - Variable #14 seems to be censored at 50.00 (corresponding to a median price of 50,000 dollars); Censoring is suggested by the fact that the highest median price of exactly 50,000 dollars is reported in 16 cases, while 15 cases have prices between 40,000 dollars and 50,000 dollars, with prices rounded to the nearest hundred. Harrison and Rubinfeld do not mention any censoring.
     
 ## Motivation
-- This project was started as a motivation for learning Machine Learning Algorithms and to learn the different data preprocessing techniques such as Exploratory Data Analysis, Feature Engineering, Feature Selection, Feature Scaling and finally to build a machine learning model.
+-This project is the task-1 of Machine Learning Internship at SYNC Interns.
 
-- In this project we will predicts house price in boston city.
+In this project I will predicts house price in boston city
+
 
 ## Project Explanation
 ### Data Collection
@@ -396,9 +393,5 @@ Score                    :  0.9673793783596027
 ```
 
 ## Conclusion
-##### Finally we finishes the project. We have built a Random Forest Regressor Model which performs well with top 6 features and having the Training accuracy of 97.89% and Testing accuracy of 96.73%.
+##### Finally Training accuracy of 97.89% and Testing accuracy of 96.73%.
 
-##### Thank you Everyone for reading my notebook.
-
-##### If you love my work, kindly give a Star to my repository.
-##### Facing any issues, feel free to post your issues on my GitHub.
